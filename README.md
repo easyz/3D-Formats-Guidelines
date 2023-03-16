@@ -8,3 +8,8 @@ Documentation for artists and developers related to Universal Textures in glTF.
 - **[Developer Guide](./KTXDeveloperGuide.md)**: Technical details for supporting KTX textures in 3D engines and graphics applications.
   - **[WebGL Tips](./KTXDeveloperGuideWebGL.md)**: Recommended setup for testing texture transcoding in WebGL applications.
 - **[KTX Tools](./KTXTools.md)**: Libraries and applications for working with KTX textures.
+
+`chrome` 开启 `webgl_compressed_texture_etc`
+* chrome://flags/ 
+* #use-angle
+* 选择 OpenGL
